@@ -6,11 +6,11 @@ const { Classic } = require("musicard");
 const { prefix } = require('./config.json');
 const nodes = [
     {
-        name: "MuzammilOPYT",
-      password: "yourpasswordhere",
-      host: "ind1.zapto.org",
-      port:  25575,
-      secure: false
+        host: "lavalink.jirayu.net",
+        password: "youshallnotpass",
+        port: 13592,
+        secure: false,
+        name: "Main Node"
       },
 ];
 
